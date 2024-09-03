@@ -15,3 +15,11 @@
 - The Link attribute will be recognised as the API's URL.
 
 ## APIs ##
+
+## *Snapmaker V2 API* ##
+
+`{
+    "api": "snapmaker",
+    "link": "http://192.168.0.97:8080",
+    "endpoint": "/api/v1/status"
+}`
