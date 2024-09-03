@@ -16,6 +16,8 @@ _Customisation_
 
 - Edit the style.css and tiles.json files
 
+Experimental Features <a href='beta.md'>click here.</a>
+
 # Screenshots
 
 <img width="1440" alt="Web Server View" src="https://github.com/user-attachments/assets/2dbd0807-aa29-4066-b260-b1b25c4802cc">
