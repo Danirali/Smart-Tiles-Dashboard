@@ -1,0 +1,22 @@
+[
+    {
+        "name": "",
+        "link": "http://homeassistant.local:8123",
+        "style": "background-image: url('https://design.home-assistant.io/images/brand/logo.png'); background-size: 135%;"
+    },
+    {
+        "name": "",
+        "link": "http://IP:5000",
+        "style": "background-image: url('https://design.synology.com/assets/guidelines/resources/logo/logo_black_thumbnail.png');"
+    },
+    {
+        "name": "",
+        "link": "https://unifi.ui.com",
+        "style": "background-image: url('https://cdn.prod.website-files.com/622b70d8906c7ab0c03f77f8/63b40a92093c6b2f3767e4e6_tMCv8T-y_400x400.webp'); background-size: 100%"
+    },
+    {
+        "name": "",
+        "link": "https://chat.openai.com",
+        "style": "background-image: url('https://www.shutterstock.com/image-vector/minsk-belarus-03272023-openai-chatgpt-600nw-2281899103.jpg')"
+    }
+]
