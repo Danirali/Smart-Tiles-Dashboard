@@ -2,7 +2,7 @@
 
 *Home Assistant Camera Entities*
 
-<code>    
+<code>
 {
     "name": "Driveway Camera",
     "link": "http://homeassistant.local:8123",
