@@ -2,7 +2,7 @@
 
 *Home Assistant Camera Entities*
 
-<code>
+<codeblock>
 {
     "name": "Driveway Camera",
     "link": "http://homeassistant.local:8123",
@@ -10,4 +10,4 @@
     "key": "API_KEY",
     "endpoint": "/api/camera_proxy/camera.driveway"
 }
-</code>
+</codeblock>
