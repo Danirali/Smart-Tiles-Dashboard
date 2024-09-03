@@ -11,3 +11,5 @@
     "key": "API_KEY",
     "endpoint": "/api/camera_proxy/camera.driveway"
 }`
+
+- The Link attribute will be recognised as the API's URL.
