@@ -1,6 +1,6 @@
 # Experimental Features
 
-*Home Assistant Camera Entities*
+## *Home Assistant Camera Entities* ##
 
 <code>tiles.json</code>
 
