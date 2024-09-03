@@ -2,6 +2,8 @@
 
 *Home Assistant Camera Entities*
 
+<code>tiles.json</code>
+
 `{
     "name": "Driveway Camera",
     "link": "http://homeassistant.local:8123",
