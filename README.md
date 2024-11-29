@@ -2,7 +2,7 @@
 Simple auto-generating dashboard full of shortcuts to various services. Made using HTML and JS.
 
 # This is currently an open-source project.
-Editing of files is permitted for use and study. This be used commercially, but cannot be modified or reuploaded.
+Editing of files is permitted for use and study. This can be used commercially, but cannot be modified or reuploaded.
 
 # Usage
 
