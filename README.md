@@ -7,7 +7,7 @@ Editing of files is permitted for use and study. This can be used commercially, 
 # Usage
 
 1. Add index.html, script.js, style.css and tiles.json to folder of your choice.
-2. Use a webserver renderer e.g. Apache2
+2. Use a webserver renderer e.g. Apache2 or run the file `flask_web_server.py` in the same folder (Python).
 3. Edit tiles.json with the shorcuts you require
 4. Navigate to web server
 5. Enjoy :D
